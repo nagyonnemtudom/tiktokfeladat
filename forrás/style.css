@@ -33,3 +33,9 @@ li {
 #html_icon {
   width: 50px;
 }
+main{
+  background-color: black;
+  width: 80%;
+  margin: 25px;
+  text-align: center;
+}
