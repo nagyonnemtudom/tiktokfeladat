@@ -61,9 +61,13 @@ p{
  color: #ff0050;
 }
 #tiktokszoveg{
-  border: solid 10px;
-  border-top: #00f2ea;
-  border-bottom: #ff0050;
-  border-right: #ff0050;
+  border: solid 10px #00f2ea;
+  border-bottom-color: #ff0050;
+  border-right-color: #ff0050;
   margin: 5px;
+}
+#app{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  align-items: center;
 }
