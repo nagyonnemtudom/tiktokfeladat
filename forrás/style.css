@@ -60,3 +60,10 @@ p{
 .piros{
  color: #ff0050;
 }
+#tiktokszoveg{
+  border: solid 10px;
+  border-top: #00f2ea;
+  border-bottom: #ff0050;
+  border-right: #ff0050;
+  margin: 5px;
+}
